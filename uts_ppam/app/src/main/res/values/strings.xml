@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UTSproject</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login\n</string>
+    <string name="register">Register Here</string>
+    <string name="food_list_title">Our Food and Beverage Menu</string>
+    <string name="contentDescription">TODO</string>
+    <string name="f_Name">Food Name</string>
+    <string name="desc_food">Description of the food.</string>
+    <string name="welcome">Indonesian Food App</string>
+    <string name="second_title">Please Click the Product Below to Order</string>
+    <string name="food_name_string">Food Name</string>
+    <string name="hint_food_name">Enter food name - Get From List</string>
+    <string name="jumlah_porsi">Number of Servings</string>
+    <string name="enter_number_of_servings">Enter number of servings</string>
+    <string name="ordering_name">Ordering Name</string>
+    <string name="ordering_name_by">Ordering name by</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="enter_any_additional_notes">Enter any additional notes</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_food">Order Food</string>
+    <string name="number_of_servings">Number of Servings :</string>
+    <string name="ordering_name_confirm">Ordering Name :</string>
+    <string name="additional_notes_confirm">Additional Notes :</string>
+    <string name="button_back">Back to Menu</string>
+    <string name="thanks_order_confirm">Thank you for ordering, please wait for the courier to deliver your order.</string>
+    <string name="food_name_confirm">Food Name:</string>
+    <string name="title_order_confirm">Your Order</string>
+</resources>
